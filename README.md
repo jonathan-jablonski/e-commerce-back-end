@@ -44,10 +44,12 @@ To get a local copy up and running follow these simple steps.
 Test this project by cloning the repository and running the following commands in the terminal, in this order:
 
 * npm
+
     ```sh
     npm install
     ```
-* OR
+  Or
+  
     ```sh
     npm install express dotenv mysql2 sequelize
     ```
