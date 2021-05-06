@@ -32,9 +32,6 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       defaultValue: 10,
-      validate: {
-        isNaN: false
-      }
     },
     // category_id (INTEGER, REFERENCES CATEGORY MODEL'S ID)
     category_id: {
