@@ -50,7 +50,7 @@ Test this project by cloning the repository and running the following commands i
 * OR
     ```sh
     npm install express dotenv mysql2 sequelize
-
+    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
